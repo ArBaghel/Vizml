@@ -4,6 +4,7 @@
 
 Upload a messy CSV or Excel file, clean it up, explore it visually, train ML models, and generate executive-grade reports — all running on your machine. No cloud required.
 
+Host_Link -> [vizml](https://vizml-curation-model.streamlit.app/)
 ---
 
 ## Features
